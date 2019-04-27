@@ -1,59 +1,59 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="BR:Arte SD" tvg-logo="https://4.bp.blogspot.com/-BQLVOAy4KZg/WqvUB3LCuII/AAAAAAAAAiA/Nyiwg-8frrQ80XJApM_GJX7GdXRHfeeyQCLcBGAs/s1600/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="ENTRETENIMENTO",BR:Arte SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141982
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141982
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="BR:Arte1 HD" tvg-logo="https://4.bp.blogspot.com/-BQLVOAy4KZg/WqvUB3LCuII/AAAAAAAAAiA/Nyiwg-8frrQ80XJApM_GJX7GdXRHfeeyQCLcBGAs/s1600/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="ENTRETENIMENTO",BR:Arte1 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141981
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141981
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BR:BIS HD" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="VARIEDADES & MUSICAS",BR:BIS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141977
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141977
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BR:BIS SD" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="VARIEDADES & MUSICAS",BR:BIS SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141980
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141980
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="BR:Comedy Central HD." tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="ENTRETENIMENTO",BR:Comedy Central HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141950
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141950
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="BR:Comedy Central SD." tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="ENTRETENIMENTO",BR:Comedy Central SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141951
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141951
 #EXTINF:-1 tvg-id="E.br" tvg-name="BR:E! HD." tvg-logo="https://3.bp.blogspot.com/-7rNUMj3bcvE/WqvTYykZW0I/AAAAAAAAAbU/CUe1Q60a7KwbEbClMkNWpoYVjP6bnFwwwCLcBGAs/s1600/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="VARIEDADES & MUSICAS",BR:E! HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141920
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141920
 #EXTINF:-1 tvg-id="E.br" tvg-name="BR:E! SD." tvg-logo="https://3.bp.blogspot.com/-7rNUMj3bcvE/WqvTYykZW0I/AAAAAAAAAbU/CUe1Q60a7KwbEbClMkNWpoYVjP6bnFwwwCLcBGAs/s1600/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="VARIEDADES & MUSICAS",BR:E! SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141921
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141921
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="BR: Food Network HD." tvg-logo="https://2.bp.blogspot.com/-K5NOwRbe4Qw/WqvTZyAgHnI/AAAAAAAAAbo/sLOT6Zu685IKJvGXShApbMtPPq82sZOdwCLcBGAs/s1600/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="DOCUMENTARIOS",BR: Food Network HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141909
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141909
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="BR:Food Network SD." tvg-logo="https://2.bp.blogspot.com/-K5NOwRbe4Qw/WqvTZyAgHnI/AAAAAAAAAbo/sLOT6Zu685IKJvGXShApbMtPPq82sZOdwCLcBGAs/s1600/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="DOCUMENTARIOS",BR:Food Network SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141910
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141910
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR:GNT Principal HD." tvg-logo="https://4.bp.blogspot.com/-2Sp2DsOkoUM/WqvThyBHU8I/AAAAAAAAAcw/daJCX8-uBts2Ry_IRDs_YtQr3_2wtFvEwCLcBGAs/s1600/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="ENTRETENIMENTO",BR:GNT Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141861
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141861
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR:GNT SD." tvg-logo="https://4.bp.blogspot.com/-2Sp2DsOkoUM/WqvThyBHU8I/AAAAAAAAAcw/daJCX8-uBts2Ry_IRDs_YtQr3_2wtFvEwCLcBGAs/s1600/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="ENTRETENIMENTO",BR:GNT SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141862
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141862
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR:Lifetime HD." tvg-logo="https://1.bp.blogspot.com/-vrxPzQJtEbI/WqvTmpsw7UI/AAAAAAAAAdg/qKnkQMUsosACYdVooH1YYt5AqJO3iWwOACLcBGAs/s1600/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="DOCUMENTARIOS",BR:Lifetime HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141840
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141840
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR:Lifetime SD." tvg-logo="https://1.bp.blogspot.com/-vrxPzQJtEbI/WqvTmpsw7UI/AAAAAAAAAdg/qKnkQMUsosACYdVooH1YYt5AqJO3iWwOACLcBGAs/s1600/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="DOCUMENTARIOS",BR:Lifetime SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141841
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141841
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="BR:MTV HD." tvg-logo="https://3.bp.blogspot.com/-c10KhKKWcCo/WqvToVSIrXI/AAAAAAAAAdw/9y3UiWxpFbUGkZdfxDttZT7NxLgxIh_PACLcBGAs/s1600/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="VARIEDADES & MUSICAS",BR:MTV HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141828
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141828
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="BR:MTV SD." tvg-logo="https://3.bp.blogspot.com/-c10KhKKWcCo/WqvToVSIrXI/AAAAAAAAAdw/9y3UiWxpFbUGkZdfxDttZT7NxLgxIh_PACLcBGAs/s1600/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="VARIEDADES & MUSICAS",BR:MTV SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141829
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141829
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR: Multishow FHD" tvg-logo="https://4.bp.blogspot.com/-vfVZeD00t-Q/WqvTpCeCODI/AAAAAAAAAd8/C31degynfnYJ5MMzArdcLHi4zUNvWsVwgCLcBGAs/s1600/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="VARIEDADES & MUSICAS",BR: Multishow FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153737
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153737
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR:Multishow Principal HD." tvg-logo="https://4.bp.blogspot.com/-vfVZeD00t-Q/WqvTpCeCODI/AAAAAAAAAd8/C31degynfnYJ5MMzArdcLHi4zUNvWsVwgCLcBGAs/s1600/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="VARIEDADES & MUSICAS",BR:Multishow Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141825
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141825
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR:Multishow SD." tvg-logo="https://4.bp.blogspot.com/-vfVZeD00t-Q/WqvTpCeCODI/AAAAAAAAAd8/C31degynfnYJ5MMzArdcLHi4zUNvWsVwgCLcBGAs/s1600/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="VARIEDADES & MUSICAS",BR:Multishow SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141826
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141826
 #EXTINF:-1 tvg-id="Off.br" tvg-name="BR: Canal OFF FHD" tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="ENTRETENIMENTO",BR: Canal OFF FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153746
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153746
 #EXTINF:-1 tvg-id="Off.br" tvg-name="BR: OFF FHD" tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="VARIEDADES & MUSICAS",BR: OFF FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153749
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153749
 #EXTINF:-1 tvg-id="Off.br" tvg-name="BR:OFF HD." tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="VARIEDADES & MUSICAS",BR:OFF HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141815
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141815
 #EXTINF:-1 tvg-id="Off.br" tvg-name="BR:OFF SD." tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="VARIEDADES & MUSICAS",BR:OFF SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141816
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141816
 #EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="BR:Prime box brasil sd." tvg-logo="https://3.bp.blogspot.com/-YchvAMb33R0/WqvTuxKYswI/AAAAAAAAAew/MeD73X2CG9cNLoWvq1ZS1HiAZJdOdKdqQCLcBGAs/s1600/1516322935_e965839bf1ec73cbf0309d15c7efbf654570741c.png" group-title="ENTRETENIMENTO",BR:Prime box brasil sd.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141717
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141717
 #EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="BR:VH1  megahits SD." tvg-logo="https://2.bp.blogspot.com/-T5-C_PqAY0o/WqvT-1Lj9tI/AAAAAAAAAhk/4yoPa_ov86c1K3IQQwYynIeLmME5XDleACLcBGAs/s1600/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="VARIEDADES & MUSICAS",BR:VH1  megahits SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141726
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141726
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="BR:VH1 HD." tvg-logo="https://2.bp.blogspot.com/-T5-C_PqAY0o/WqvT-1Lj9tI/AAAAAAAAAhk/4yoPa_ov86c1K3IQQwYynIeLmME5XDleACLcBGAs/s1600/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="VARIEDADES & MUSICAS",BR:VH1 HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141725
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141725
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="BR:VIVA Principal HD." tvg-logo="https://4.bp.blogspot.com/-GWGf6snd5_4/WqvT_ICSp3I/AAAAAAAAAho/iR8OdmwND5MYP7Xvj44A6l8Kwym-DK6RwCLcBGAs/s1600/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="ENTRETENIMENTO",BR:VIVA Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141723
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141723
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="BR:VIVA SD." tvg-logo="https://4.bp.blogspot.com/-GWGf6snd5_4/WqvT_ICSp3I/AAAAAAAAAho/iR8OdmwND5MYP7Xvj44A6l8Kwym-DK6RwCLcBGAs/s1600/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="ENTRETENIMENTO",BR:VIVA SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141724
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141724
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="BR:Woohoo SD." tvg-logo="https://4.bp.blogspot.com/-UZdSAYJwN8k/WqvUAGIvTXI/AAAAAAAAAhw/fJ1IHTK7-ncBhevo5ImhnNhEo9qRc_RvQCLcBGAs/s1600/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="VARIEDADES & MUSICAS",BR:Woohoo SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141718
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141718
