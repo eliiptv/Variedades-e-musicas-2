@@ -1,53 +1,53 @@
 #EXTM3U#EXTM3U
 #EXTINF:-1 tvg-id="Bis.br" tvg-name=".BIS HD" tvg-logo="http://dispositiva.com.br/wp-content/uploads/2017/09/bis.png" group-title="VARIEDADES E MUSICAIS",.BIS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3909
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3909
 #EXTINF:-1 tvg-id="Bis.br" tvg-name=".BIS SD" tvg-logo="http://dispositiva.com.br/wp-content/uploads/2017/09/bis.png" group-title="VARIEDADES E MUSICAIS",.BIS SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3908
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3908
 #EXTINF:-1 tvg-id="E.br" tvg-name=".E! HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/30/16/15/3016159ad9aa9ea59f19161864508c93.png" group-title="VARIEDADES E MUSICAIS",.E! HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3865
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3865
 #EXTINF:-1 tvg-id="E.br" tvg-name=".E! SD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/30/16/15/3016159ad9aa9ea59f19161864508c93.png" group-title="VARIEDADES E MUSICAIS",.E! SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3864
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3864
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name=".Food Network HD" tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="VARIEDADES E MUSICAIS",.Food Network HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3849
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3849
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name=".Food Network SD" tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="VARIEDADES E MUSICAIS",.Food Network SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3848
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3848
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name=".GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="VARIEDADES E MUSICAIS",.GNT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3829
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3829
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name=".GNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="VARIEDADES E MUSICAIS",.GNT SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3828
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3828
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name=".Lifetime HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/920/full/Lifetime_2013.png?1523474380" group-title="VARIEDADES E MUSICAIS",.Lifetime HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3809
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3809
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name=".Lifetime SD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/920/full/Lifetime_2013.png?1523474380" group-title="VARIEDADES E MUSICAIS",.Lifetime SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3808
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3808
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name=".Mais Globosat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%2Bglobosat_azul_2d.png/1280px-%2Bglobosat_azul_2d.png" group-title="FILMES E SÉRIES",.Mais Globosat HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3807
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3807
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name=".Mais Globosat SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%2Bglobosat_azul_2d.png/1280px-%2Bglobosat_azul_2d.png" group-title="FILMES E SÉRIES",.Mais Globosat SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3806
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3806
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name=".MTV HD" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="VARIEDADES E MUSICAIS",.MTV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3795
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3795
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name=".MTV SD" tvg-logo="https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png" group-title="VARIEDADES E MUSICAIS",.MTV SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3794
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3794
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name=".MULTISHOW HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/890/full/cfa477de2556a75a32a3ee2b7b89.png?1523473789" group-title="VARIEDADES E MUSICAIS",.MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3793
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3793
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name=".MULTISHOW SD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/890/full/cfa477de2556a75a32a3ee2b7b89.png?1523473789" group-title="VARIEDADES E MUSICAIS",.MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3792
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3792
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name=".Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES E MUSICAIS",.Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3761
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3761
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name=".Prime Box Brazil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES E MUSICAIS",.Prime Box Brazil SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3760
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3760
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name=".TLC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png" group-title="VARIEDADES E MUSICAIS",.TLC HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3715
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3715
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name=".TLC SD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png" group-title="VARIEDADES E MUSICAIS",.TLC SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3714
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3714
 #EXTINF:-1 tvg-id="VH1.br" tvg-name=".VH1 HD" tvg-logo="http://logonoid.com/images/vh1-logo.png" group-title="VARIEDADES E MUSICAIS",.VH1 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3701
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3701
 #EXTINF:-1 tvg-id="VH1.br" tvg-name=".VH1 SD" tvg-logo="http://logonoid.com/images/vh1-logo.png" group-title="VARIEDADES E MUSICAIS",.VH1 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3700
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3700
 #EXTINF:-1 tvg-id="Viva.br" tvg-name=".Viva HD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="VARIEDADES E MUSICAIS",.Viva HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3699
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3699
 #EXTINF:-1 tvg-id="Viva.br" tvg-name=".Viva SD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="VARIEDADES E MUSICAIS",.Viva SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3698
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3698
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name=".Woohoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/1280px-Woohoo_logo.svg.png" group-title="VARIEDADES E MUSICAIS",.Woohoo HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3899
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3899
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name=".Woohoo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/1280px-Woohoo_logo.svg.png" group-title="VARIEDADES E MUSICAIS",.Woohoo SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3898
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3898
